@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const StudentInfo = () => {
+export default function StudentInfo () {
     return (
         <div>
             <p>Justin James Marquez</p>
@@ -8,4 +8,3 @@ const StudentInfo = () => {
         </div>
     );
 };
-export default StudentInfo;
