@@ -4,7 +4,7 @@ const StudentInfo = () => {
     return (
         <div>
             <p>Justin James Marquez</p>
-            <Link href={""}>Link to GitHub Repository</Link>
+            <Link href={"https://github.com/jlicious3/cprg306-assignments"}>Link to GitHub Repository</Link>
         </div>
     );
 };
