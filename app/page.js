@@ -9,7 +9,9 @@ export default function Home() {
         <h1>CPRG 306: Web Development 2 - Assignments</h1>
       </div>
       
-     
+      <div className="flex-col">
+        Click the apol to go to week 2
+      </div>
       
       <div className="text-5xl text-red-900 border-0 items-center">
         <Link href="/week-2">
