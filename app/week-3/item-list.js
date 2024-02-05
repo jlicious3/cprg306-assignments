@@ -75,7 +75,7 @@ const ItemList = () => {
   
 
       return (
-        <ul className="flex-wrap w-1/3">
+        <ul className="flex-wrap w-1/3 pt-12">
           <Item {...item1} />
           <Item {...item2} />
           <Item {...item3} />

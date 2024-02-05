@@ -6,7 +6,7 @@ const Page = () => {
   return (
     <main className="bg-black min-h-screen p-8">
     <div>
-      <h1 className="text-4xl font-bold mb-8 border-b pb-5 pl-5">Shopping List 🛒</h1>
+      <h1 className="text-4xl font-bold border-b pb-5 pl-2 pt-5 fixed top-0 w-full bg-black shadow-md">Shopping List 🛒</h1>
       <ItemList />
     </div>
 
