@@ -4,6 +4,7 @@ import { FaApple } from 'react-icons/fa';
 import { DiAndroid, DiWindows } from "react-icons/di";
 
 
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-5 bg-black text-amber-400">
@@ -20,7 +21,7 @@ export default function Home() {
       </div>
 
       <div className="mt-5 hover:underline hover:text-white">
-      <Link href="/week-2"> Week 4 </Link>
+      <Link href="/week-4"> Week 4 </Link>
       </div>
 
       <div className="mt-5 hover:underline hover:text-white">

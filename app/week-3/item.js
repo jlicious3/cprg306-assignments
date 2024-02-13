@@ -1,4 +1,3 @@
-
 const Item = ({ name, quantity, category }) => {
     return (
       <li className="bg-amber-400 p-2 m-2 rounded-lg">
