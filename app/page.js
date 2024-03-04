@@ -29,7 +29,7 @@ export default function Home() {
       </div>
 
       <div className="mt-5 hover:underline hover:text-white">
-      <Link href="/week-2"> Week 6 </Link>
+      <Link href="/week-6"> Week 6 </Link>
       </div>
 
       <div className="mt-5 hover:underline hover:text-white">
