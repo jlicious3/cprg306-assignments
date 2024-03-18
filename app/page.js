@@ -37,15 +37,15 @@ export default function Home() {
       </div>
 
       <div className="mt-5 hover:underline hover:text-white">
-      <Link href="/week-2"> Week 8 </Link>
+      <Link href="/week-8"> Week 8 </Link>
       </div>
 
       <div className="mt-5 hover:underline hover:text-white">
-      <Link href="/week-2"> Week 9 </Link>
+      <Link href="/week-9"> Week 9 </Link>
       </div>
 
       <div className="mt-5 hover:underline hover:text-white">
-      <Link href="/week-2"> Week 10 </Link>
+      <Link href="/week-10"> Week 10 </Link>
       </div>
       
       <div className="flex-grow text-white mt-30 flex-grow items-end">        
